@@ -1,6 +1,5 @@
 gradio
 deep-translator
 gTTS
-gtts
-ffmpeg-python
 openai-whisper
+ffmpeg-python
