@@ -1,0 +1,5 @@
+gradio
+deep-translator
+gTTS
+ffmpeg-python
+openai-whisper
